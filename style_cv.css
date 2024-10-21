@@ -1,0 +1,57 @@
+/* General Style */
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #f9f9f9;
+}
+
+h1, h2, h3, h4 {
+    color: #b30000;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px solid #b30000;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #333;
+}
+
+a {
+    color: #b30000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin: 10px 0;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #b30000;
+    margin: 20px 0;
+}
+
+/* Contact Info */
+.contact-info {
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
